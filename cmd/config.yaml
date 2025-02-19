@@ -1,0 +1,8 @@
+ServerPort: ":8080"
+Database:
+  Host: "localhost"
+  Port: "5434"
+  User: "postgres"
+  Password: "mukamusmanow"
+  Name: "library"
+JWTSecret: "qwertyuiop"
