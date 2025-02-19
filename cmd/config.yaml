@@ -3,6 +3,6 @@ Database:
   Host: "localhost"
   Port: "5434"
   User: "postgres"
-  Password: "mukamusmanow"
+  Password: "..."
   Name: "library"
 JWTSecret: "qwertyuiop"
